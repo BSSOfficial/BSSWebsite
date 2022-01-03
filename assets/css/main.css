@@ -2404,6 +2404,12 @@ input, select, textarea {
 				border-left: solid 0.75em rgba(64, 64, 64, 0);
 				border-right: solid 0.75em rgba(64, 64, 64, 0);
 			}
+/* summary id section on home page (index.html) */
+
+#summary{
+	text-align: center;
+}
+
 
 /* Banner */
 
