@@ -72,6 +72,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+#sponsor-label {
+	text-align: center;
+	padding-left: 37.5%;
+}
+
 /* Basic */
 
 	html {
